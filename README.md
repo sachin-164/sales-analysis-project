@@ -37,28 +37,6 @@ This project involves a detailed analysis of a sample sales dataset to uncover t
 - Strong correlation between `PRICEEACH` and `SALES`.
 
 
-
-# Folder Structure
-Sales-Analysis-Project/
-│
-├── data/
-│ ├── sales_data_sample.csv
-│ └── sales_data_sample_cleaned.csv
-│
-├── notebooks/
-│ └── Sales_Data_Analysis.ipynb
-│
-├── images/ # Visualizations exported from notebook
-│
-├── dashboard/ # Power BI files
-│ └── sales_dashboard.pbix
-│
-├── README.md
-│
-└── requirements.txt
-
-
-
 # Dashboard Overview (Power BI)
 
 The dashboard will visualize key performance metrics including:
